@@ -1,8 +1,7 @@
 # scanpng
 
-Analyseur forensic de fichiers PNG.  
+Analyseur detaillé de fichiers PNG.  
 Affiche les chunks, vérifie les CRC, montre les offsets, détecte les données appendées après `IEND`.  
-Un équivalent moderne et lisible de `pngcheck`, en Python.
 
 ## Installation
 
